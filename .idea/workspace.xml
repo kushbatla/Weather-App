@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccdd753e-001c-48f2-84d2-37702e98da63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/app/WeatherApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/app/WeatherApp.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/location/DefaultLocationTracker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/location/DefaultLocationTracker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/mappers/WeatherMappers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/mappers/WeatherMappers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/remote/WeatherAPI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/remote/WeatherAPI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/remote/WeatherDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/remote/WeatherDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/remote/WeatherDataDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/remote/WeatherDataDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/data/repository/WeatherRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/data/repository/WeatherRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/di/AppModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/di/AppModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/di/LocationModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/di/LocationModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/di/RepositoryModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/di/RepositoryModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/location/LocationTracker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/location/LocationTracker.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/repository/WeatherRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/repository/WeatherRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/util/Resource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/util/Resource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/weather/DailyWeatherInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/weather/DailyWeatherInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/weather/WeatherData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/weather/WeatherData.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/weather/WeatherInfo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/weather/WeatherInfo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/domain/weather/WeatherType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/domain/weather/WeatherType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/CurrentWeatherDisplay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/CurrentWeatherDisplay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/HourlyWeatherForecast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/HourlyWeatherForecast.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/HourlyWeatherItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/HourlyWeatherItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/NextDayWeatherDisplay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/NextDayWeatherDisplay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/WeatherDataDisplay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/WeatherDataDisplay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/WeekWeatherForecast.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/WeekWeatherForecast.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/composables/WeekWeatherItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/composables/WeekWeatherItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/ui/theme/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/ui/theme/Shape.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/viewmodel/WeatherState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/viewmodel/WeatherState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ken/projects/weatherapp/presentation/viewmodel/WeatherViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/kush/projects/weatherapp/presentation/viewmodel/WeatherViewModel.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[6ac9b04e]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Weather App" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lufav6ng5s9CFABpSTLfVezO2X" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kush/Desktop/no/WeatherApp&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Weather_App.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdd753e-001c-48f2-84d2-37702e98da63" name="Changes" comment="" />
+      <created>1676725956683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676725956683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
